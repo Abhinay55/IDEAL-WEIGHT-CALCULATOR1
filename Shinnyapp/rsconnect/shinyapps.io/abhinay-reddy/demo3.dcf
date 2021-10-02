@@ -1,0 +1,12 @@
+name: demo3
+title: demo3
+username:
+account: abhinay-reddy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3107804
+bundleId: 3790087
+url: https://abhinay-reddy.shinyapps.io/demo3/
+when: 1603850628.75183
+asMultiple: FALSE
+asStatic: FALSE

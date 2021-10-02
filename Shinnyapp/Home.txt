@@ -1,0 +1,3 @@
+The Ideal Weight Calculator computes ideal bodyweight (IBW) ranges based on height, gender, and age. The idea of finding the IBW using a formula has been sought after by many experts for a long time. Currently, there persist several popular formulas, and our Ideal Weight Calculator provides their results for side-to-side comparisons.
+
+ idealWeight <- 50 + (0.9 * (MyHeight - 152))
